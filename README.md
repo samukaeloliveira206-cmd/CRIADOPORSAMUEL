@@ -102,13 +102,13 @@ Aplicação de técnicas modernas de CSS:
 **1. Clonar o repositório**
 
 ```bash
-git clone https://github.com/samukaeloliveira206-cmd/codigo-app.git
+git clone https://github.com/samukaeloliveira206-cmd/CRIADOPORSAMUEL.git
 ```
 
 **2. Entrar na pasta do projeto**
 
 ```bash
-cd my-list
+CRIADOPORSAMUEL
 ```
 
 **3. Abrir o arquivo index.html**
