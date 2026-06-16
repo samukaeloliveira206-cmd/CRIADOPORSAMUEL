@@ -108,7 +108,7 @@ git clone https://github.com/samukaeloliveira206-cmd/CRIADOPORSAMUEL.git
 **2. Entrar na pasta do projeto**
 
 ```bash
-CRIADOPORSAMUEL
+cd CRIADOPORSAMUEL
 ```
 
 **3. Abrir o arquivo index.html**
@@ -138,13 +138,13 @@ Sinta-se à vontade para estudar, modificar e utilizar o código como referênci
 ## 👩‍💻 Autora
 
 <div align="center">
-  <p>Desenvolvido com 💛 por <strong>Douracy Freire</strong></p>
+  <p>Desenvolvido com 🧠 por <strong>Samuel Moura</strong></p>
 
-  <a href="https://github.com/mdouracyfreire">
-    <img src="https://img.shields.io/badge/GitHub-Douracy%20Freire-181717?logo=github" alt="GitHub Badge"/>
+  <a href="https://github.com/samukaeloliveira206-cmd">
+    <img src="https://img.shields.io/badge/GitHub-Samul%20Moura-181717?logo=github" alt="GitHub Badge"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/douracy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Douracy%20Freire-0A66C2?logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/samuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Freire-0A66C2?logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </div>
