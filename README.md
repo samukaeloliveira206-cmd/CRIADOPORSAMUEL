@@ -135,7 +135,7 @@ Sinta-se à vontade para estudar, modificar e utilizar o código como referênci
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
 <div align="center">
   <p>Desenvolvido com 🧠 por <strong>Samuel Moura</strong></p>
@@ -145,6 +145,6 @@ Sinta-se à vontade para estudar, modificar e utilizar o código como referênci
   </a>
 
   <a href="https://www.linkedin.com/in/samuel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Freire-0A66C2?logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20moura-0A66C2?logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </div>
