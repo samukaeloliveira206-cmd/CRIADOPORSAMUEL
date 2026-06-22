@@ -135,7 +135,7 @@ Sinta-se à vontade para estudar, modificar e utilizar o código como referênci
 
 ---
 
-## 👩‍💻 Autor
+## 👨🏿‍💻 Autor
 
 <div align="center">
   <p>Desenvolvido com 🧠 por <strong>Samuel Moura</strong></p>
