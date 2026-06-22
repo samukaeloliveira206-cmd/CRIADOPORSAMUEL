@@ -1,4 +1,4 @@
-# ✅ My List - Lista de Tarefas com LocalStorage
+1# ✅ My List - Lista de Tarefas com LocalStorage
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
@@ -144,7 +144,7 @@ Sinta-se à vontade para estudar, modificar e utilizar o código como referênci
     <img src="https://img.shields.io/badge/GitHub-Samul%20Moura-181717?logo=github" alt="GitHub Badge"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/samuel/">
+  <a href="https://www.linkedin.com/in/samuel-moura-4497812b6"/>
     <img src="https://img.shields.io/badge/LinkedIn-Samuel%20moura-0A66C2?logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </div>
