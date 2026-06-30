@@ -7,7 +7,7 @@ let tarefa = JSON.parse(localStorage.getItem("@listaTarefas")) || [];
 botaoAdicionar.onclick = adicionarTarefa;
 
 function adicionarTarefa() {
-  if (!!!campoTarefa.value.trim()) {
+  if (!!campoTarefa.value.trim()) {
     alert("Você não digitou uma tarefa");
     return false;
   } else {
