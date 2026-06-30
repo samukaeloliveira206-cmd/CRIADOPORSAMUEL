@@ -1,7 +1,8 @@
 let campoTarefa = document.querySelector(".adicionar-tarefa input");
 let botaoAdicionar = document.querySelector(".adicionar-tarefa button");
 let listaDeTarefas = document.querySelector(".listar-tarefa");
-let tarefa = JSON.parse(localStorage.getItem("@listaDeTarefas")) ||[];
+
+let tarefa = JSON.parse(localStorage.getItem("@listaTarefas")) || [];
 
 botaoAdicionar.onclick = adicionarTarefa;
 
@@ -13,14 +14,16 @@ function adicionarTarefa() {
     tarefa.push(campoTarefa.value);
     campoTarefa.value = "";
     listarTarefa();
-    salvardados();
+
+    salvarDados();
   }
 }
 
 function removerTarefa(posicao) {
   tarefa.splice(posicao, 1);
   listarTarefa();
-  salvardados();
+
+  salvarDados();
 }
 
 function listarTarefa() {
@@ -48,7 +51,9 @@ function listarTarefa() {
     listaDeTarefas.appendChild(novaTarefa);
   });
 }
+
 listarTarefa();
-function salvardados() {
-  localStorage.setItem("@listaDeTarefas", JSON.stringify(tarefa));
+
+function salvarDados() {
+  localStorage.setItem("@listaTarefas", JSON.stringify(tarefa));
 }
